@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-ceub-assinatura-conceito-deslocado-01.webp" alt="Logomarca do CEUB" width="300">
+  <img src="logo.jpg" alt="Logomarca do CEUB" width="300">
 </p>
 
 # Qualidade de Software com a ISO/IEC 25010
