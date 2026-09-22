@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets\logo.jpg" 
 </p>
 
 # Qualidade de Software com a ISO/IEC 25010

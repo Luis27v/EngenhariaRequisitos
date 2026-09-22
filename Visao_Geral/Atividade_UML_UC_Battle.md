@@ -148,6 +148,5 @@ Fonte principal: Tavares, Irvin Ken Xavier; Eliseo, Maria Amelia. Um Jogo Acess√
 
 ---
 **11. Diagrama**
-<p>
-  <img src="diagrama.png" alt="diagrama" width="500">
-</p>
+
+[Diagrama](assets/diagrama.png)
