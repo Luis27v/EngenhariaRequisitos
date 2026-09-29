@@ -17,10 +17,10 @@ Neste repositório estão organizados os materiais utilizados e desenvolvidos du
 
 | Participante |
 |---|
-| Cauã Diniz |
-| Eduardo Victor |
+| [Cauã Diniz](https://github.com/dinizxzz) |
+| [Eduardo Victor](https://github.com/eduardovictor-duarte) |
 | [Isabella Saboia](https://github.com/isabella-ss) |
-| Lucca Peres |
+| [Lucca Peres](https://github.com/luccamjanuario-maker)|
 | [Luis Eduardo](https://github.com/Luis27v) |
 | [Moises Cunha](https://github.com/cunha-moy) |
 
